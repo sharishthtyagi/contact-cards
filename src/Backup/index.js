@@ -175,13 +175,13 @@ import "./index.css";
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(<div>{UserData()}</div>);
 
-// Video-21
-import React from "react";
-import ReactDOM from "react-dom/client";
-import { UserInfo } from "./21-Video/UserInfo";
+// // Video-21
+// import React from "react";
+// import ReactDOM from "react-dom/client";
+// import { UserInfo } from "./21-Video/UserInfo";
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<div>{UserInfo()}</div>);
+// const root = ReactDOM.createRoot(document.getElementById("root"));
+// root.render(<div>{UserInfo()}</div>);
 
 // // Video-23
 // import React from "react";
@@ -191,13 +191,13 @@ root.render(<div>{UserInfo()}</div>);
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 // root.render(<div><Template></Template></div>);
 
-// // Video-24
-// import React from "react";
-// import ReactDOM from "react-dom/client";
-// import {Template} from "./24-Video/Template";
+// Video-24
+import React from "react";
+import ReactDOM from "react-dom/client";
+import {Template} from "./24-Video/Template";
 
-// const root = ReactDOM.createRoot(document.getElementById("root"));
-// root.render(<div><Template></Template></div>);
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<div><Template></Template></div>);
 
 // // Video-25
 // import React from "react";
